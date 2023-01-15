@@ -36,7 +36,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: auto;
   margin: 56px auto 0px;
   padding: 0 24px;
@@ -78,14 +79,14 @@ body * {
   border-radius: 50%;
 
   position: absolute;
-  top:50%;
+  top: 50%;
   z-index: 1;
   transform: translateY(-50%);
 }
 
 .light #switch button {
   right: 0;
-  left:initial;
+  left: initial;
 }
 
 #switch span {
