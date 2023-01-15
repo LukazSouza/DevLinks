@@ -32,7 +32,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/yjQyhcCSmLAxfEbPvtQgtR/DevLinks-(Community)?node-id=0%3A1&t=fh9ddcKyGPFkD49J-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## 🏫 Aprendizado
+
+Aqui aprendemos muitos conceitos sobre  html , css e java script ,  tivemos um avanço incrível e satisfatório com direito de subir para github !
+
 ## :memo: Licença
+
+
 
 Esse projeto está sob a licença MIT.
 
